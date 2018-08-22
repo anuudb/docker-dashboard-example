@@ -30,7 +30,8 @@ The sample interacts with Docker, so having the [native Docker tools](https://ww
 `docker pull elkdanger/express-app`
 
 ## Running the sample
-
+```
+npm lin webpack
 ```
 npm start
 ```
